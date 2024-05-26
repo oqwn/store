@@ -16,6 +16,8 @@
 		<module>order</module>
 		<module>products</module>
 		<module>ware</module>
+		<module>renren-fast</module>
+		<module>renren-generater</module> 
 	</modules>
 
 </project>
